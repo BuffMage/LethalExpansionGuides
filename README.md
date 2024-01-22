@@ -1,6 +1,8 @@
 # Lethal Expansion Guides
 Here you will find a collection of guides for making various scrap types and moons in a generalized format, each guide will be example based and the entire process will be explained.
 
+#### DISCLAIMER: This set of guides is still in progress, but a full asset workflow for Normal Scrap items is listed below
+
 Some things you will need to do before creating your own scrap/moons:
 1. Install [Unity Hub](https://unity.com/download)
 2. Install [Unity Version 2022.3.9f1](https://unity.com/releases/editor/archive)
