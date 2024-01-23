@@ -22,7 +22,7 @@ If you have not set up your own folder in the Project Template, please follow th
   - Shovel - TODO
   - Flashlight - TODO
   - [Noisemaker](https://github.com/BuffMage/LethalExpansionGuides/blob/main/ScrapGuides/NoiseMakerScrapType.md)
-  - WhoopieCushion - TODO
+  - [WhoopieCushion](https://github.com/BuffMage/LethalExpansionGuides/blob/main/ScrapGuides/WhoopieCushionGuide.md)
 
 ## Moon Guides
 - TODO
