@@ -24,7 +24,7 @@ Add the name of your `Sound File` (for example: Boing) and click on the circle i
 
 You will do this twice with one having `yoursoundname` and the other being `yoursoundnameFar`
 
-![AudioCLip](Images/AudioClips.png)
+![AudioClip](https://github.com/BuffMage/LethalExpansionGuides/blob/main/Images/AudioClips.png)
 
 ## 3. Add the sounds to your Scrap
 
@@ -32,7 +32,7 @@ You will then go to your scrap or whatever you called it  (where you can change 
 
 Change `Normal` to `Noisemaker` so then your item will act as a Noisemaker.
 
-![NormaltoNoise](Images/NormaltoNoise.png)
+![NormaltoNoise](https://github.com/BuffMage/LethalExpansionGuides/blob/main/Images/NormaltoNoise.png)
 
 Scroll down till you find `Noise SFX`
 
@@ -40,7 +40,7 @@ For Noise SFX put `yoursoundname` or `Boing`
 
 Now for `Noise SFX Far` add `yoursoundnameFar` or `BoingFar`
 
-![NoiseSFX](Images/NoiseSFX_and_Far.png)
+![NoiseSFX](https://github.com/BuffMage/LethalExpansionGuides/blob/main/Images/NoiseSFX%20and%20Far.png)
 
 You are able to change:
 - Noise Range
