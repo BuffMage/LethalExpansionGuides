@@ -12,7 +12,7 @@ I recommend putting your sound files in the same folder as your Model.
 
 For the guide I will be using `Boing.wav`
 
-![Soundinfolder](Images/Soundinfolder.png)
+![Soundinfolder](https://github.com/BuffMage/LethalExpansionGuides/blob/main/Images/Soundinfolder.png)
 
 ## 2. Adding your sounds to your Asset Bank
 
