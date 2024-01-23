@@ -21,7 +21,7 @@ If you have not set up your own folder in the Project Template, please follow th
   - [Normal](./ScrapGuides/NormalScrapType.md)
   - Shovel - TODO
   - Flashlight - TODO
-  - Noisemaker - TODO
+  - [Noisemaker](https://github.com/BuffMage/LethalExpansionGuides/blob/main/ScrapGuides/NoiseMakerScrapType.md)
   - WhoopieCushion - TODO
 
 ## Moon Guides
