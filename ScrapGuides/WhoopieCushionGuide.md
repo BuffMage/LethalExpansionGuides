@@ -6,7 +6,7 @@ Like in previous guides if you haven't done [NormalScrapType.md](https://github.
 
 For this Guide I will be making a Fake landmine that makes an explosion sound when stepped on
 
-img
+![Preview](https://github.com/BuffMage/LethalExpansionGuides/blob/main/Images/Screenshot%202024-01-23%20172235.png)
 
 ## 1. Importing your Sounds
 
