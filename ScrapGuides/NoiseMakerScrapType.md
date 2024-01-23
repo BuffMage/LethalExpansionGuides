@@ -20,6 +20,8 @@ First you'll go to your `Templatemodassetbank` or what ever you called it.
 
 Press on the drop down menu for `Audio Clips`
 
+Press the Plus sign 
+
 Add the name of your `Sound File` (for example: Boing) and click on the circle icon and add your sound from there.
 
 You will do this twice with one having `yoursoundname` and the other being `yoursoundnameFar`
