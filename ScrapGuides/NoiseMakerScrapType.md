@@ -2,7 +2,7 @@
 
 This guide is for making `NoiseMaker` Type Scrap which means your scrap will be able to make noise for example: Air Horn or Clown Horn.
 
-This guide is assuming you have completed [ScrapNormalType](ScrapGuides/NormalScrapType.md) so if you haven't then please do that first.
+This guide is assuming you have completed [ScrapNormalType](https://github.com/BuffMage/LethalExpansionGuides/blob/main/ScrapGuides/NormalScrapType.md) so if you haven't then please do that first.
 
 ## 1. Importing Sounds
 
