@@ -1,4 +1,4 @@
-# Noise Maker Scrap Type Guide
+# Noisemaker Scrap Type Guide
 
 This guide is for making `NoiseMaker` Type Scrap which means your scrap will be able to make noise for example: Air Horn or Clown Horn.
 
