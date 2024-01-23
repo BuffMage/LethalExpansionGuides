@@ -52,7 +52,7 @@ You are able to change:
 ## 4. Exporting
 
 
-If you've done [ScrapNormalType](https://github.com/BuffMage/LethalExpansionGuides/blob/main/ScrapGuides/NormalScrapType.md)) then this should be straight forward.
+If you've done [ScrapNormalType](https://github.com/BuffMage/LethalExpansionGuides/blob/main/ScrapGuides/NormalScrapType.md) then this should be straight forward.
 
 
 
